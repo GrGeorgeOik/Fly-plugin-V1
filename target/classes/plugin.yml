@@ -1,0 +1,8 @@
+name: FlyPlugin
+version: '1'
+main: me.grgeorge.flyplugin.FlyPlugin
+api-version: 1.19
+commands:
+  fly:
+    description: Fly free like in creative mode.
+    usage: /<command>
